@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SereniTea</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on SereniTea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2020 22:50:22 +0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Echo Friendly Cars Post</title>
+      <link>http://example.org/posts/echo-friendly-cars-post/</link>
+      <pubDate>Sat, 17 Oct 2020 22:50:22 +0500</pubDate>
+      
+      <guid>http://example.org/posts/echo-friendly-cars-post/</guid>
+      <description>History Hello this is my frist website using logo. Dedicated to cars.
+I am just writing about cars can&amp;rsquo;t really afford em.
+Solve everything with Cars.
+ First Item Second Item  </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 17 Oct 2020 22:37:45 +0500</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>History Hello this is my frist website using logo. Dedicated to sereniTea.
+sereniTea has flaforful aromatic tea prodcts.
+Solve everything with Tea.
+ First Item Second Item  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "SereniTea"
-theme = "ananke"
+theme = "ananke1"
 
 [params]
   favicon = ""
